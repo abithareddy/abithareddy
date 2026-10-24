@@ -6,7 +6,8 @@
 - 🌱 I'm currently learning DevOps.
 - 💻 Exploring Linux, Git & GitHub.
 - ☁️ Learning cloud computing with AWS.
-- 🚀 Interested in Cloud Technologies and Automation.
+- 📧 Email: kalakadaabithareddy@gmail.com
+🐙 GitHub: @abithareddy
 
 ## 🛠️ Languages and Tools
 
